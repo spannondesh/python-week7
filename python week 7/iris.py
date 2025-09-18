@@ -16,3 +16,5 @@ df.plot(kind='bar',x='petal.width',y='petal.length')
 plt.show()
 df.plot(kind='line',x='petal.width',y='petal.length')
 plt.show()
+
+
